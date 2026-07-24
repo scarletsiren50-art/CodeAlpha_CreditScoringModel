@@ -1,3 +1,12 @@
+## CodeAlpha Internship
+
+**Name:** Mohammed Sadiya Tabassum  
+**Student ID:** CA/DF1/210263  
+**Internship Domain:** Machine Learning  
+**Task Name:** Task 1 - Credit Scoring Model
+
+---
+
 # 💳 Credit Risk Prediction System
 
 A Machine Learning based Credit Scoring System developed as part of my **CodeAlpha Machine Learning Internship**.
