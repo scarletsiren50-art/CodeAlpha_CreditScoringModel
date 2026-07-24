@@ -8,6 +8,12 @@ The project includes complete data preprocessing, model training, model comparis
 
 ---
 
+## 🌐 Live Demo
+
+Try the deployed Credit Risk Prediction System:
+
+**[Launch Live Application](https://codealphacreditscoringmodel-nptenypou7vaheskdmlzam.streamlit.app/)**
+
 ## 🎯 Project Objective
 
 The objective of this project is to predict an individual's creditworthiness using historical financial data.
